@@ -1,0 +1,78 @@
+{
+  "id": 1,
+  "slug": "jalu-aji-nugroho-l200230251",
+  "profile": {
+    "full_name": "Jalu Aji Nugroho",
+    "nim": "L200230251",
+    "prodi": "Teknik Informatika",
+    "angkatan": "2023",
+    "photo_url": "/profil.jpeg",
+    "headline": "Mahasiswa Teknik Informatika | Web Developer",
+    "short_bio": "Saya Jalu Aji Nugroho, mahasiswa Teknik Informatika di Universitas Muhammadiyah Surakarta. Tertarik pada pengembangan web dan data.",
+    "location": "Surakarta, Jawa Tengah",
+    "portfolio_url": "https://github.com/jaluaji"
+  },
+  "skills": [
+    {
+      "id": 1,
+      "name": "HTML",
+      "category": "technical",
+      "level": "advanced",
+      "years_of_experience": 3
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "category": "technical",
+      "level": "advanced",
+      "years_of_experience": 3
+    },
+    {
+      "id": 3,
+      "name": "JavaScript",
+      "category": "technical",
+      "level": "intermediate",
+      "years_of_experience": 2
+    },
+    {
+      "id": 4,
+      "name": "React",
+      "category": "technical",
+      "level": "intermediate",
+      "years_of_experience": 1
+    },
+    {
+      "id": 5,
+      "name": "Python",
+      "category": "technical",
+      "level": "intermediate",
+      "years_of_experience": 1
+    }
+  ],
+  "experiences": [
+    {
+      "id": 201,
+      "title": "Pembuatan aplikasi sederhana",
+      "organization": "Projek Kelompok",
+      "experience_type": "project",
+      "start_date": "2024",
+      "end_date": null,
+      "is_current": false,
+      "description": "Pembuatan aplikasi sederhana Sistem Informasi Perkuliahan bertujuan untuk mempermudah proses akademik mahasiswa, seperti melihat daftar mata kuliah, melakukan pengambilan mata kuliah (KRS), serta mengetahui informasi dosen.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "image_url": ""
+    },
+    {
+      "id": 202,
+      "title": "Pembuatan game sederhana dengan aplikasi alice 3",
+      "organization": "Personal Project",
+      "experience_type": "project",
+      "start_date": "2023",
+      "end_date": null,
+      "is_current": false,
+      "description": "Pembuatan game menggunakan Alice 3 merupakan proses merancang dan membangun permainan interaktif berbasis animasi 3D dengan memanfaatkan konsep pemrograman berbasis blok.",
+      "technologies": ["Alice 3", "Java"],
+      "image_url": ""
+    }
+  ]
+}
